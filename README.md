@@ -1,1 +1,1 @@
-# SyncthingServiceLauncher
+# Syncthing Service Launcher Wrapper
