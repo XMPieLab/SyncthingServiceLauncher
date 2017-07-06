@@ -44,7 +44,8 @@ Copy the generated output folder to **%ProgramFiles%\Syncthing** or any other pr
 Run the **Install.bat** file
 Configure Syncthing with the web UI.  
 Default url is [127.0.0.1:8384](http://127.0.0.1:8384/).  
-Check the log.txt file for **GUI and API** if default url does not work.
+Wrapper writes output to syncthingOutput.txt file.
+A shortcut to the web UI is automatically created in the installation folder. Look for manageSyncthing link. This will open up in a browser window.
 
 ## Monitoring
 
