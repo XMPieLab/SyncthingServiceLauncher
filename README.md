@@ -28,7 +28,7 @@ In addition it sets the Syncthing flags to enable a UI less Syncthing.
 Building the project can be done either via MSBUILD command line or via opening the solution in Visual Studio 2015 or above.
 
 All output is copied to the SyncthingServiceLauncher output folder. 
-Please copy/build the latest Syncthing.exe file to the output folder.
+Please copy/[build](https://github.com/syncthing/syncthing) the latest windows **[Syncthing.exe](https://github.com/syncthing/syncthing/releases/)** file to the output folder.
 
 > ## The following files makeup a complete install package
 > Syncthing.exe  
