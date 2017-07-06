@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncthingServiceLauncher", "SyncThingServiceLauncher\SyncthingServiceLauncher.csproj", "{3734A62A-C1EF-4377-9931-5AB3DEF19E8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMPie.Service.Launcher", "XMPie.Service.Launcher\XMPie.Service.Launcher.csproj", "{CC25FD24-84D7-4BBC-A598-BAA6AE07908A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMPie.Assembly.Utils", "XMPie.Assembly.Utils\XMPie.Assembly.Utils.csproj", "{166625B4-C253-4FB2-A119-49CAD18B3584}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FD85A8D1-E226-494F-87C3-C48B945E1F0A}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3734A62A-C1EF-4377-9931-5AB3DEF19E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3734A62A-C1EF-4377-9931-5AB3DEF19E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3734A62A-C1EF-4377-9931-5AB3DEF19E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3734A62A-C1EF-4377-9931-5AB3DEF19E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC25FD24-84D7-4BBC-A598-BAA6AE07908A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC25FD24-84D7-4BBC-A598-BAA6AE07908A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC25FD24-84D7-4BBC-A598-BAA6AE07908A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC25FD24-84D7-4BBC-A598-BAA6AE07908A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{166625B4-C253-4FB2-A119-49CAD18B3584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{166625B4-C253-4FB2-A119-49CAD18B3584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{166625B4-C253-4FB2-A119-49CAD18B3584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{166625B4-C253-4FB2-A119-49CAD18B3584}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

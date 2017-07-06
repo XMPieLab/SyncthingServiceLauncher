@@ -1,0 +1,1 @@
+﻿sc create "Syncthing Service" binPath= "%~dp0\XMPie.Service.Launcher.exe SyncThingServiceLauncher" start= delayed-auto

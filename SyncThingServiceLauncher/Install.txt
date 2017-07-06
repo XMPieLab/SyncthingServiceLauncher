@@ -1,0 +1,6 @@
+﻿#In order to manually install SyncThing as a windows service run the following command line:
+sc create "Syncthing Service" binPath= "C:\SyncThing\XMPie.Service.Launcher.exe SyncThingServiceLauncher" start= delayed-auto
+#This will place a wrapper implementation on top of SyncThing that will output the console log into log.txt file
+#The wrapper implementation is triggered using XMPie.Service.Launcher written in C# .Net framework 4.5.1
+#After the service start use the "My ID: #######-#######-IVQLER6-#######-#######-CG6EUJV-#######-#######" ID to register additional peers
+#Browse to "GUI and API 127.0.0.1:8384" or any other port number listed in the log to manage the service.
